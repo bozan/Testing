@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("git deneme")
         print("github a bağladıktan sonra deneme")
+        print("git deneme 3")
     }
     
 
